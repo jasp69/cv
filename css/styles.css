@@ -1,0 +1,25 @@
+/*comment*/
+body{
+  background-color:powderblue;
+}
+
+h1{
+  color:#39AEA9;
+}
+
+h3{
+  color:#39AEA9;
+}
+
+hr{
+  border-style:dotted none none;
+  border-color:grey;
+  border-width:5px;
+  width:5%;
+}
+
+.profile{
+  width:200px;
+  height:200px;
+  background-color:powderblue;
+}
